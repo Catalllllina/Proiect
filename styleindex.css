@@ -32,7 +32,8 @@ nav a {
 }
 main {
     background-color: rgba(0, 0, 0, 0.596);
-    height: 400px;
+    height: 350px;
+    padding-top: 50px ;
     text-align: center;
     margin-top: 20px;
     padding-left: 300px;
