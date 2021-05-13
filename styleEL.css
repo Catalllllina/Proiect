@@ -35,12 +35,18 @@ section1 {
 }
 main {
     background-color: rgba(0, 0, 0, 0.596);
-    height: 700px;
+    height: 900px;
     text-align: center;
-    padding-top: 100px;
+    padding-top: 10px;
     padding-left: 300px;
     padding-right: 300px;
     margin-bottom: 50px;
+}
+p {
+text-align: center;
+font-size: 20px;
+color: rgba(218, 154, 81, 0.767);
+
 }
 h1 {
     font-style: italic;
